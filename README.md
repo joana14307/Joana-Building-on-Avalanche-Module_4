@@ -8,7 +8,7 @@ The DegenToken contract (DGN) is implemented in Solidity and follows the ERC20 s
 
 ## Installation
 
-To deploy and interact with the DungeonQuest contract, ensure you have the following prerequisites:
+To deploy and interact with the DegenToken contract, ensure you have the following prerequisites:
 - A compatible Ethereum development environment
 - OpenZeppelin Contracts library (version 4.6 or higher)
 
