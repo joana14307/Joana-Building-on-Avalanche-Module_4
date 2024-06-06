@@ -30,12 +30,12 @@ To deploy and interact with the DegenToken contract, ensure you have the followi
 ## Usage
 
 1. Deploy the contract to an Ethereum network, specifying the name and symbol of the token.
-2. Use the `mint` function to used by the contract owner to create new tokens.
-3. The 'Set Item' allows the contract owner to define items that can be purchased or redeemed using the token.
-4. 'Redeem Item'  is use for checks if the item exists and if the user has enough tokens to redeem it. 
-5. `Burn` function allows token holders to destroy (burn) a specified amount of their tokens. 
-6. 'Transfer' to enables token holders to transfer tokens to another address.
-7. 'Transfer Ownership' allows the current owner to transfer ownership of the contract to a new owner.
+2. Use the```mint``` function to used by the contract owner to create new tokens.
+3. The ```Set Item``` allows the contract owner to define items that can be purchased or redeemed using the token.
+4. ```Redeem Item```  is use for checks if the item exists and if the user has enough tokens to redeem it. 
+5. ```Burn``` function allows token holders to destroy (burn) a specified amount of their tokens. 
+6. ```Transfer``` to enables token holders to transfer tokens to another address.
+7. ```Transfer Ownership``` allows the current owner to transfer ownership of the contract to a new owner.
    
 ## Author
 
